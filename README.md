@@ -2,22 +2,28 @@ Purpose of this repository is to share the magical features of excel in the area
 
 Following are some of the exercises implemented in excel
 
-1. Levenshtein distance
+Levenshtein distance
 
-2. EDA (Dynamic Charts and Analysis Through Voice)
+EDA (Dynamic Charts and Analysis Through Voice)
 
-3. Cooccurance Analysis (Jacard Coefficient)
+Cooccurance Analysis (Jacard Coefficient)
 
-4. Decision Trees (Mushroom Dataset)
+Decision Trees (Mushroom Dataset)
 
-5. EDA (Replication of Hans Rosling Animation on World's Data)
+EDA (Replication of Hans Rosling Animation on World's Data)
 
-6. Market Basket Analysis
+Market Basket Analysis
 
-7. K Means Clustering (Categorical, text and numerical)
+K Means Clustering (Categorical, text and numerical)
 
-8. K Nearest Neighbors
+K Nearest Neighbors
 
-9. Artificial Neural Network (MNIST Dataset)
+Artificial Neural Network (MNIST Dataset)
 
-10. LinkedIn Summary Report
+LinkedIn Summary Report
+
+Custom Functions (E.g. Euclidean Distance)
+
+Consolidate Excels
+
+Generate PPT From Excel
