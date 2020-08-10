@@ -27,3 +27,5 @@ Custom Functions (E.g. Euclidean Distance)
 Consolidate Excels
 
 Generate PPT From Excel
+
+Conjoint Analysis
